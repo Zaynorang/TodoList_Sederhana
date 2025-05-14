@@ -1,5 +1,6 @@
 # TodoList_Sederhana
 
+
 ## Pendahuluan
 
 ### Tujuan
@@ -23,6 +24,7 @@ Sistem memungkinkan pengguna untuk:
 | User | Pengguna akhir aplikasi |
 
 ---
+
 
 ## Deskripsi Umum
 
@@ -64,6 +66,7 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 ---
 
+
 ## Antarmuka Sistem
 
 ### Antarmuka Pengguna
@@ -84,6 +87,7 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - Tidak mendukung pengguna ganda atau multi-session
 - Tidak memiliki antarmuka grafis (GUI)
 - Hanya menyimpan data secara lokal tanpa enkripsi
+
 
 ### Lampiran
 
