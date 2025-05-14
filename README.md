@@ -132,3 +132,27 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
                                                      | Jika Pilih Keluar           |
                                                      | → Program selesai           |
                                                      +-----------------------------+
+
+
+
+### Screenshot Hasil Running
+
+- **Tambah Tugas**
+  
+  ![Tambah Tugas](./screenshot/tambah.jpeg)
+
+- **Hapus Tugas**
+  
+  ![Hapus Tugas](./screenshot/hapus.jpeg)
+
+- **Lihat Daftar Tugas**
+  
+  ![Lihat Daftar](./screenshot/lihatdaftar.jpeg)
+
+- **Masuk Ulang Program**
+  
+  ![Masuk Ulang](./screenshot/masukulang.jpeg)
+
+- **Simpan dan Keluar**
+  
+  ![Simpan Keluar](./screenshot/simpankeluar.jpeg)
