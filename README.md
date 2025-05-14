@@ -86,9 +86,10 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - Hanya menyimpan data secara lokal tanpa enkripsi
 
 ### Lampiran
+#### Struktur Kode
 todolist/
-├── main.py # Menjalankan program utama
-├── task_manager.py # Fungsi tambah, hapus, dan tampilkan tugas
-├── storage.py # Fungsi simpan dan muat file JSON
-└── utils.py # Fungsi bantu tampilan menu dan input
+- main.py # Menjalankan program utama
+- task_manager.py # Fungsi tambah, hapus, dan tampilkan tugas
+- storage.py # Fungsi simpan dan muat file JSON
+- utils.py # Fungsi bantu tampilan menu dan input
 
