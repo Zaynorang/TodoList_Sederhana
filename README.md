@@ -94,38 +94,25 @@ todolist/
 - utils.py # Fungsi bantu tampilan menu dan input
 
 #### Diagram Alur Sistem
+## 🔁 Diagram Alur Sistem
 
-                          +-----------------------+
-                          |   Jalankan Program    |
-                          +----------+------------+
-                                     |
-                                     v
-                         +--------------------------+
-                         |  Tampilkan Menu Utama    |
-                         +-----------+--------------+
-                                     |
-              +----------------------+----------------------+
-              |                      |                      |
-              v                      v                      v
-      +----------------+     +----------------+     +----------------+
-      |  Lihat Tugas   |     |  Tambah Tugas  |     |  Hapus Tugas   |
-      +-------+--------+     +--------+-------+     +--------+-------+
-              |                       |                       |
-              v                       v                       v
-    +------------------+     +------------------+     +------------------+
-    | Tampilkan daftar |     | Input deskripsi  |     | Input nomor tugas|
-    | tugas (jika ada) |     | tugas dan simpan |     | hapus dari list  |
-    +--------+---------+     +--------+---------+     +--------+---------+
-             \____________________    |    ____________________/
-                                      v
-                          +--------------------------+
-                          |   Kembali ke Menu Utama  |
-                          +------------+-------------+
-                                       |
-                                       v
-                             [Ulangi hingga keluar]
-                                       |
-                                       v
-                            +----------------------+
-                            |     Keluar Program   |
-                            +----------------------+
++-----------+
+| Mulai |
++-----------+
+|
+v
++-----------------+
+| Tampilkan Menu |
++-----------------+
+|
+v
++--------------------------+
+| Pilihan: |
+| 1. Tambah Tugas |
+| 2. Hapus Tugas |
+| 3. Tampilkan Daftar |
+| 4. Keluar |
++--------------------------+
+|
+v
+(Alur berdasarkan pilihan)
