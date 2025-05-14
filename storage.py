@@ -13,4 +13,3 @@ def save_tasks(tasks):
     with open(FILENAME, "w") as f:
         json.dump(tasks, f)
     print("Data tugas berhasil disimpan.")
-  
