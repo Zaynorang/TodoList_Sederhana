@@ -79,4 +79,11 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - File JSON untuk menyimpan data
 - Tidak menggunakan library eksternal
 
+### Batasan Sistem
+- Tidak menyimpan riwayat perubahan tugas
+- Tidak mendukung pengguna ganda atau multi-session
+- Tidak memiliki antarmuka grafis (GUI)
+- Hanya menyimpan data secara lokal tanpa enkripsi
+
+
 ---
