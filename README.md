@@ -1,10 +1,10 @@
 # TodoList_Sederhana
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Zaynorang/TodoList_Sederhana)
-![GitHub last commit](https://img.shields.io/github/last-commit/Zaynorang/TodoList_Sederhana)
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zaynorang/TodoList_Sederhana)
-
+[![Repo Size](https://img.shields.io/github/repo-size/Zaynorang/TodoList_Sederhana)](https://github.com/Zaynorang/TodoList_Sederhana)
+[![Last Commit](https://img.shields.io/github/last-commit/Zaynorang/TodoList_Sederhana)](https://github.com/Zaynorang/TodoList_Sederhana/commits)
+[![Release](https://img.shields.io/github/v/release/Zaynorang/TodoList_Sederhana)](https://github.com/Zaynorang/TodoList_Sederhana/releases)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
 
 ## Pendahuluan
 
