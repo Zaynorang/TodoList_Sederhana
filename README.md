@@ -1,6 +1,5 @@
 # TodoList_Sederhana
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zaynorang/TodoList_Sederhana)
 [![Repo Size](https://img.shields.io/github/repo-size/Zaynorang/TodoList_Sederhana)](https://github.com/Zaynorang/TodoList_Sederhana)
 [![Last Commit](https://img.shields.io/github/last-commit/Zaynorang/TodoList_Sederhana)](https://github.com/Zaynorang/TodoList_Sederhana/commits)
 [![Release](https://img.shields.io/github/v/release/Zaynorang/TodoList_Sederhana)](https://github.com/Zaynorang/TodoList_Sederhana/releases)
