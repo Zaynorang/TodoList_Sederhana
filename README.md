@@ -93,16 +93,39 @@ todolist/
 - storage.py # Fungsi simpan dan muat file JSON
 - utils.py # Fungsi bantu tampilan menu dan input
 
-#### Screenshot Hasil Running Sistem
-
-
 #### Diagram Alur Sistem
-[Mulai]
-↓
-[Tampilkan Menu]
-↓
-[Input Pilihan]
-├─> Tambah Tugas ──> Input Teks ──> Simpan
-├─> Hapus Tugas ──> Pilih Nomor ──> Hapus
-├─> Tampilkan Daftar ──> Cetak Tugas
-└─> Keluar
+
+                        +-----------------------+
+                        |   Jalankan Program    |
+                        +----------+------------+
+                                   |
+                                   v
+                       +--------------------------+
+                       |  Tampilkan Menu Utama    |
+                       +-----------+--------------+
+                                   |
+            +----------------------+----------------------+
+            |                      |                      |
+            v                      v                      v
+    +----------------+     +----------------+     +----------------+
+    |  Lihat Tugas   |     |  Tambah Tugas  |     |  Hapus Tugas   |
+    +-------+--------+     +--------+-------+     +--------+-------+
+            |                       |                       |
+            v                       v                       v
+  +------------------+     +------------------+     +------------------+
+  | Tampilkan daftar |     | Input deskripsi  |     | Input nomor tugas|
+  | tugas (jika ada) |     | tugas dan simpan |     | hapus dari list  |
+  +--------+---------+     +--------+---------+     +--------+---------+
+           \____________________    |    ____________________/
+                                    v
+                        +--------------------------+
+                        |   Kembali ke Menu Utama  |
+                        +------------+-------------+
+                                     |
+                                     v
+                           [Ulangi hingga keluar]
+                                     |
+                                     v
+                          +----------------------+
+                          |     Keluar Program   |
+                          +----------------------+
