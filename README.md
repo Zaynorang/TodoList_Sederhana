@@ -69,3 +69,14 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 ### Antarmuka Pengguna
 - CLI berbasis teks
 - Input melalui angka (untuk pilihan) dan teks (untuk isi tugas
+
+### Antarmuka Perangkat Keras
+- Komputer dengan Python 3.x
+- Tidak membutuhkan perangkat tambahan
+
+### Antarmuka Perangkat Lunak
+- Menggunakan interpreter Python standar
+- File JSON untuk menyimpan data
+- Tidak menggunakan library eksternal
+
+---
