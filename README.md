@@ -23,3 +23,45 @@ Sistem memungkinkan pengguna untuk:
 | User | Pengguna akhir aplikasi |
 
 ---
+
+### Perspektif Produk
+Aplikasi ini adalah sistem **standalone** yang berjalan di terminal. Tidak memerlukan koneksi internet atau database eksternal. Semua data disimpan secara lokal dalam file `tasks.json`.
+
+### Fungsi Sistem
+- Menampilkan daftar tugas saat ini
+- Menambahkan tugas baru ke dalam daftar
+- Menghapus tugas berdasarkan nomor
+- Menyimpan perubahan ke dalam file
+- Membaca ulang data ketika program dijalankan
+
+### Karakteristik Pengguna
+Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. Aplikasi dirancang untuk pengguna umum tanpa keahlian teknis. Operasi dilakukan melalui input angka dan teks di terminal.
+
+---
+
+## Kebutuhan Fungsional
+
+| Kode | Nama Fitur | Deskripsi |
+|------|------------|-----------|
+| RF001 | Tampilkan Tugas | Sistem menampilkan semua tugas yang telah dicatat. |
+| RF002 | Tambah Tugas | Pengguna dapat menambahkan tugas baru ke daftar. |
+| RF003 | Hapus Tugas | Pengguna dapat menghapus tugas berdasarkan nomor urut. |
+| RF004 | Simpan Tugas | Sistem menyimpan daftar tugas dalam file lokal. |
+| RF005 | Muat Tugas | Sistem membaca kembali data tugas dari file saat aplikasi dijalankan. |
+
+---
+
+## Kebutuhan Non-Fungsional
+
+| Kode | Deskripsi |
+|------|-----------|
+| RNF001 | Sistem memberikan respons terhadap input pengguna dalam < 1 detik. |
+| RNF002 | Dapat dijalankan pada Python 3.x tanpa library tambahan. |
+| RNF003 | Antarmuka berbasis teks yang mudah digunakan. |
+| RNF004 | Berjalan secara offline dan tidak tergantung pada sistem operasi tertentu. |
+
+---
+
+### Antarmuka Pengguna
+- CLI berbasis teks
+- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas)
