@@ -24,6 +24,8 @@ Sistem memungkinkan pengguna untuk:
 
 ---
 
+## Deskripsi Umum
+
 ### Perspektif Produk
 Aplikasi ini adalah sistem **standalone** yang berjalan di terminal. Tidak memerlukan koneksi internet atau database eksternal. Semua data disimpan secara lokal dalam file `tasks.json`.
 
@@ -62,6 +64,8 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 ---
 
+## Antarmuka Sistem
+
 ### Antarmuka Pengguna
 - CLI berbasis teks
-- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas)
+- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas
