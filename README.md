@@ -12,9 +12,9 @@ Dokumen ini menjelaskan kebutuhan fungsional dan non-fungsional dari **Aplikasi 
 
 ### Lingkup
 Sistem memungkinkan pengguna untuk:
-- Menambahkan tugas baru
-- Menghapus tugas yang sudah tidak diperlukan
-- Menampilkan seluruh daftar tugas
+- Menambahkan tugas baru.
+- Menghapus tugas yang sudah tidak diperlukan.
+- Menampilkan seluruh daftar tugas.
 - Menyimpan daftar tugas ke file lokal.
 
 ### Definisi, Akronim, dan Singkatan
@@ -36,10 +36,10 @@ Sistem memungkinkan pengguna untuk:
 Aplikasi ini adalah sistem **standalone** yang berjalan di terminal. Tidak memerlukan koneksi internet atau database eksternal. Semua data disimpan secara lokal dalam file `tasks.json`.
 
 ### Fungsi Sistem
-- Menampilkan daftar tugas saat ini
-- Menambahkan tugas baru ke dalam daftar
-- Menghapus tugas berdasarkan nomor
-- Menyimpan perubahan ke dalam file
+- Menampilkan daftar tugas saat ini.
+- Menambahkan tugas baru ke dalam daftar.
+- Menghapus tugas berdasarkan nomor.
+- Menyimpan perubahan ke dalam file.
 - Membaca ulang data ketika program dijalankan.
 
 ### Karakteristik Pengguna
@@ -74,22 +74,22 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 ## Antarmuka Sistem
 
 ### Antarmuka Pengguna
-- CLI berbasis teks
+- CLI berbasis teks.
 - Input melalui angka (untuk pilihan) dan teks (untuk isi tugas).
   
 ### Antarmuka Perangkat Keras
-- Komputer dengan Python 3.x
+- Komputer dengan Python 3.x.
 - Tidak membutuhkan perangkat tambahan.
 
 ### Antarmuka Perangkat Lunak
-- Menggunakan interpreter Python standar
-- File JSON untuk menyimpan data
+- Menggunakan interpreter Python standar.
+- File JSON untuk menyimpan data.
 - Tidak menggunakan library eksternal.
 
 ### Batasan Sistem
-- Tidak menyimpan riwayat perubahan tugas
-- Tidak mendukung pengguna ganda atau multi-session
-- Tidak memiliki antarmuka grafis (GUI)
+- Tidak menyimpan riwayat perubahan tugas.
+- Tidak mendukung pengguna ganda atau multi-session.
+- Tidak memiliki antarmuka grafis (GUI).
 - Hanya menyimpan data secara lokal tanpa enkripsi.
 
 
