@@ -88,11 +88,11 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 ### Lampiran
 
 #### Struktur Kode
-            todolist/
-            ├── main.py # Menjalankan program utama
-            ├── task_manager.py # Fungsi tambah, hapus, dan tampilkan tugas
-            ├── storage.py # Fungsi simpan dan muat file JSON
-            └── utils.py # Fungsi bantu tampilan menu dan input
+     todolist/
+     ├── main.py # Menjalankan program utama
+     ├── task_manager.py # Fungsi tambah, hapus, dan tampilkan tugas
+     ├── storage.py # Fungsi simpan dan muat file JSON
+     └── utils.py # Fungsi bantu tampilan menu dan input
 
 #### Diagram Alur Sistem
 
