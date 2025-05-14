@@ -94,7 +94,6 @@ todolist/
 - utils.py # Fungsi bantu tampilan menu dan input
 
 #### Diagram Alur Sistem
-## 🔁 Diagram Alur Sistem
 
       +-----------+
       |   Mulai   |
@@ -107,12 +106,27 @@ todolist/
                |
                v
       +--------------------------+
-      | Pilihan: 
-      | 1. Tambah Tugas 
-      | 2. Hapus Tugas 
-      | 3. Tampilkan Daftar 
-      | 4. Keluar 
+      | Pilihan:                 |
+      | 1. Tambah Tugas          |
+      | 2. Hapus Tugas           |
+      | 3. Tampilkan Daftar      |
+      | 4. Keluar                |
       +--------------------------+
                   |
                   v
       (Alur berdasarkan pilihan)
+      +-----------------------------+
+      | Jika Pilih Hapus Tugas      |
+      | → Masukkan nomor tugas      |
+      | → Hapus dari daftar         |
+      +-----------------------------+
+
+      +-----------------------------+
+      | Jika Pilih Tampilkan Daftar |
+      | → Cetak daftar tugas        |
+      +-----------------------------+
+
+      +-----------------------------+
+      | Jika Pilih Keluar           |
+      | → Program selesai           |
+      +-----------------------------+
