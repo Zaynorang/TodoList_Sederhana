@@ -117,18 +117,18 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
                                                                    v
                                                        (Alur berdasarkan pilihan)
                                                                             
-      +-----------------------------+
-      | Jika Pilih Hapus Tugas      |
-      | → Masukkan nomor tugas      |
-      | → Hapus dari daftar         |
-      +-----------------------------+
+                                                     +-----------------------------+
+                                                     | Jika Pilih Hapus Tugas      |
+                                                     | → Masukkan nomor tugas      |
+                                                     | → Hapus dari daftar         |
+                                                     +-----------------------------+
 
-      +-----------------------------+
-      | Jika Pilih Tampilkan Daftar |
-      | → Cetak daftar tugas        |
-      +-----------------------------+
+                                                     +-----------------------------+
+                                                     | Jika Pilih Tampilkan Daftar |
+                                                     | → Cetak daftar tugas        |
+                                                     +-----------------------------+
 
-      +-----------------------------+
-      | Jika Pilih Keluar           |
-      | → Program selesai           |
-      +-----------------------------+
+                                                     +-----------------------------+
+                                                     | Jika Pilih Keluar           |
+                                                     | → Program selesai           |
+                                                     +-----------------------------+
