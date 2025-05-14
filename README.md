@@ -118,34 +118,34 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 #### Diagram Alur Sistem
 
-                                                  +-----------+
-                                                  |   Mulai   |
-                                                  +-----------+
-                                                        |
-                                                        v
-                                               +-----------------+
-                                               |  Tampilkan Menu |
-                                               +-----------------+
-                                                        |
-                                                        v
-                                           +--------------------------+
-                                           | Pilihan:                 |
-                                           | 1. Tambah Tugas          |
-                                           | 2. Hapus Tugas           |
-                                           | 3. Tampilkan Daftar      |
-                                           | 4. Keluar                |
-                                           +--------------------------+
-                                                        |
-                                                        v
-                                            (Alur berdasarkan pilihan)
-                                                        |
-            ----------------------------------------------------------------------------------------
-            |                                           |                                          |
-            |                                           |                                          |
-            |                                           |                                          |
-            v                                           v                                          v
-+-----------------------------+          +-----------------------------+             +-----------------------------+
-| Jika Pilih Hapus Tugas      |          | Jika Pilih Tampilkan Daftar |             | Jika Pilih Keluar           |
-| → Masukkan nomor tugas      |          | → Cetak daftar tugas        |             | → Program selesai           |
-| → Hapus dari daftar         |          +-----------------------------+             +-----------------------------+
-+-----------------------------+
+                                                       +-----------+
+                                                       |   Mulai   |
+                                                       +-----------+
+                                                             |
+                                                             v
+                                                    +-----------------+
+                                                    |  Tampilkan Menu |
+                                                    +-----------------+
+                                                             |
+                                                             v
+                                                +--------------------------+
+                                                | Pilihan:                 |
+                                                | 1. Tambah Tugas          |
+                                                | 2. Hapus Tugas           |
+                                                | 3. Tampilkan Daftar      |
+                                                | 4. Keluar                |
+                                                +--------------------------+
+                                                             |
+                                                             v
+                                                (Alur berdasarkan pilihan)
+                                                             |
+                 ----------------------------------------------------------------------------------------
+                 |                                           |                                          |
+                 |                                           |                                          |
+                 |                                           |                                          |
+                 v                                           v                                          v
+    +-----------------------------+          +-----------------------------+             +-----------------------------+
+    | Jika Pilih Hapus Tugas      |          | Jika Pilih Tampilkan Daftar |             | Jika Pilih Keluar           |
+    | → Masukkan nomor tugas      |          | → Cetak daftar tugas        |             | → Program selesai           |
+    | → Hapus dari daftar         |          +-----------------------------+             +-----------------------------+
+    +-----------------------------+
