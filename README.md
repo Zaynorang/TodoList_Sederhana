@@ -11,7 +11,7 @@ Sistem memungkinkan pengguna untuk:
 - Menambahkan tugas baru
 - Menghapus tugas yang sudah tidak diperlukan
 - Menampilkan seluruh daftar tugas
-- Menyimpan daftar tugas ke file lokal
+- Menyimpan daftar tugas ke file lokal.
 
 ### Definisi, Akronim, dan Singkatan
 
@@ -36,7 +36,7 @@ Aplikasi ini adalah sistem **standalone** yang berjalan di terminal. Tidak memer
 - Menambahkan tugas baru ke dalam daftar
 - Menghapus tugas berdasarkan nomor
 - Menyimpan perubahan ke dalam file
-- Membaca ulang data ketika program dijalankan
+- Membaca ulang data ketika program dijalankan.
 
 ### Karakteristik Pengguna
 Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. Aplikasi dirancang untuk pengguna umum tanpa keahlian teknis. Operasi dilakukan melalui input angka dan teks di terminal.
@@ -71,22 +71,22 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 ### Antarmuka Pengguna
 - CLI berbasis teks
-- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas)
+- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas).
 
 ### Antarmuka Perangkat Keras
 - Komputer dengan Python 3.x
-- Tidak membutuhkan perangkat tambahan
+- Tidak membutuhkan perangkat tambahan.
 
 ### Antarmuka Perangkat Lunak
 - Menggunakan interpreter Python standar
 - File JSON untuk menyimpan data
-- Tidak menggunakan library eksternal
+- Tidak menggunakan library eksternal.
 
 ### Batasan Sistem
 - Tidak menyimpan riwayat perubahan tugas
 - Tidak mendukung pengguna ganda atau multi-session
 - Tidak memiliki antarmuka grafis (GUI)
-- Hanya menyimpan data secara lokal tanpa enkripsi
+- Hanya menyimpan data secara lokal tanpa enkripsi.
 
 
 ### Lampiran
@@ -119,6 +119,7 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - **Hapus Tugas**
   
   ![Hapus Tugas](./screenshot/hapus.jpeg)
+
 
 #### Diagram Alur Sistem
 
