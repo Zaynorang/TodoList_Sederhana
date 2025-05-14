@@ -86,6 +86,7 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - Hanya menyimpan data secara lokal tanpa enkripsi
 
 ### Lampiran
+
 #### Struktur Kode
             todolist/
             ├── main.py # Menjalankan program utama
