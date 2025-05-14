@@ -96,26 +96,26 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 #### Diagram Alur Sistem
 
-                                                                                  +-----------+
-                                                                                  |   Mulai   |
-                                                                                  +-----------+
-                                                                                        |
-                                                                                        v
-                                                                               +-----------------+
-                                                                               |  Tampilkan Menu |
-                                                                               +-----------------+
-                                                                                        |
-                                                                                        v
-                                                                            +--------------------------+
-                                                                            | Pilihan:                 |
-                                                                            | 1. Tambah Tugas          |
-                                                                            | 2. Hapus Tugas           |
-                                                                            | 3. Tampilkan Daftar      |
-                                                                            | 4. Keluar                |
-                                                                            +--------------------------+
-                                                                                        |
-                                                                                        v
-                                                                            (Alur berdasarkan pilihan)
+                                                            +-----------+
+                                                            |   Mulai   |
+                                                            +-----------+
+                                                                  |
+                                                                  v
+                                                          +-----------------+
+                                                          |  Tampilkan Menu |
+                                                          +-----------------+
+                                                                  |
+                                                                  v
+                                                      +--------------------------+
+                                                      | Pilihan:                 |
+                                                      | 1. Tambah Tugas          |
+                                                      | 2. Hapus Tugas           |
+                                                      | 3. Tampilkan Daftar      |
+                                                      | 4. Keluar                |
+                                                      +--------------------------+
+                                                                   |
+                                                                   v
+                                                       (Alur berdasarkan pilihan)
                                                                             
       +-----------------------------+
       | Jika Pilih Hapus Tugas      |
