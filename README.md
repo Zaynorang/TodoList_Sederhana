@@ -86,6 +86,32 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - Hanya menyimpan data secara lokal tanpa enkripsi
 
 ### Lampiran
+from task_manager import display_tasks, add_task, delete_task
+from utils import show_menu, get_user_choice
+from storage import load_tasks, save_tasks
 
+def main():
+    tasks = load_tasks()
+
+    while True:
+        show_menu()
+        choice = get_user_choice()
+
+        if choice == '1':
+            display_tasks(tasks)
+        elif choice == '2':
+            add_task(tasks)
+            save_tasks(tasks)
+        elif choice == '3':
+            delete_task(tasks)
+            save_tasks(tasks)
+        elif choice == '4':
+            print("Terima kasih telah menggunakan To-Do List. Sampai jumpa!")
+            break
+        else:
+            print("Pilihan tidak valid. Silakan coba lagi.")
+
+if __name__ == "__main__":
+    main()
 
 
