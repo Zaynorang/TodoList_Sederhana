@@ -144,8 +144,8 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
                            |                                           |                                          |
                            |                                           |                                          |
                            v                                           v                                          v
-              +-----------------------------+           +-----------------------------+             +-----------------------------+
-              | Jika Pilih Hapus Tugas      |           | Jika Pilih Tampilkan Daftar |             | Jika Pilih Keluar           |
-              | → Masukkan nomor tugas      |           | → Cetak daftar tugas        |             | → Program selesai           |
-              | → Hapus dari daftar         |           +-----------------------------+             +-----------------------------+
+              +-----------------------------+            +-----------------------------+            +-----------------------------+
+              | Jika Pilih Hapus Tugas      |            | Jika Pilih Tampilkan Daftar |            | Jika Pilih Keluar           |
+              | → Masukkan nomor tugas      |            | → Cetak daftar tugas        |            | → Program selesai           |
+              | → Hapus dari daftar         |            +-----------------------------+            +-----------------------------+
               +-----------------------------+
