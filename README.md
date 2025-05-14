@@ -75,8 +75,8 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 ### Antarmuka Pengguna
 - CLI berbasis teks
-- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas).
-
+- Input melalui angka (untuk pilihan) dan teks (untuk isi tugas)
+  
 ### Antarmuka Perangkat Keras
 - Komputer dengan Python 3.x
 - Tidak membutuhkan perangkat tambahan.
@@ -101,6 +101,7 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
      ├── task_manager.py # Fungsi tambah, hapus, dan tampilkan tugas
      ├── storage.py # Fungsi simpan dan muat file JSON
      └── utils.py # Fungsi bantu tampilan menu dan input
+
 
 #### Screenshot Hasil Running
 
