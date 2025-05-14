@@ -86,12 +86,12 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - Hanya menyimpan data secara lokal tanpa enkripsi
 
 ### Lampiran
-from task_manager import display_tasks, add_task, delete_task
-from utils import show_menu, get_user_choice
-from storage import load_tasks, save_tasks
+    from task_manager import display_tasks, add_task, delete_task
+    from utils import show_menu, get_user_choice
+    from storage import load_tasks, save_tasks
 
-def main():
-    tasks = load_tasks()
+    def main():
+        tasks = load_tasks()
 
     while True:
         show_menu()
@@ -111,7 +111,8 @@ def main():
         else:
             print("Pilihan tidak valid. Silakan coba lagi.")
 
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
+
 
 
