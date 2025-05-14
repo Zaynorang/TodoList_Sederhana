@@ -97,4 +97,12 @@ todolist/
 
 
 #### Diagram Alur Sistem
-
+[Mulai]
+↓
+[Tampilkan Menu]
+↓
+[Input Pilihan]
+├─> Tambah Tugas ──> Input Teks ──> Simpan
+├─> Hapus Tugas ──> Pilih Nomor ──> Hapus
+├─> Tampilkan Daftar ──> Cetak Tugas
+└─> Keluar
