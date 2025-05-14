@@ -94,6 +94,28 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
      ├── storage.py # Fungsi simpan dan muat file JSON
      └── utils.py # Fungsi bantu tampilan menu dan input
 
+### Screenshot Hasil Running
+
+- **Tambah Tugas**
+  
+  ![Tambah Tugas](./screenshot/tambah.jpeg)
+
+- **Lihat Daftar Tugas**
+  
+  ![Lihat Daftar](./screenshot/lihatdaftar.jpeg)
+
+- **Simpan dan Keluar**
+  
+  ![Simpan Keluar](./screenshot/simpankeluar.jpeg)
+
+- **Masuk Ulang Program**
+  
+  ![Masuk Ulang](./screenshot/masukulang.jpeg)
+
+- **Hapus Tugas**
+  
+  ![Hapus Tugas](./screenshot/hapus.jpeg)
+
 #### Diagram Alur Sistem
 
                                                             +-----------+
@@ -135,24 +157,3 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 
 
 
-### Screenshot Hasil Running
-
-- **Tambah Tugas**
-  
-  ![Tambah Tugas](./screenshot/tambah.jpeg)
-
-- **Hapus Tugas**
-  
-  ![Hapus Tugas](./screenshot/hapus.jpeg)
-
-- **Lihat Daftar Tugas**
-  
-  ![Lihat Daftar](./screenshot/lihatdaftar.jpeg)
-
-- **Masuk Ulang Program**
-  
-  ![Masuk Ulang](./screenshot/masukulang.jpeg)
-
-- **Simpan dan Keluar**
-  
-  ![Simpan Keluar](./screenshot/simpankeluar.jpeg)
