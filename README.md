@@ -2,7 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zaynorang/TodoList_Sederhana)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Zaynorang/TodoList_Sederhana)
-![GitHub](https://img.shields.io/github/license/Zaynorang/TodoList_Sederhana)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zaynorang/TodoList_Sederhana)
 
