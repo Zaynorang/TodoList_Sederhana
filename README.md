@@ -97,21 +97,21 @@ todolist/
 ## 🔁 Diagram Alur Sistem
 
       +-----------+
-      | Mulai |
+      |   Mulai   |
       +-----------+
       |
       v
       +-----------------+
-      | Tampilkan Menu |
+      |  Tampilkan Menu |
       +-----------------+
       |
       v
       +--------------------------+
-      | Pilihan: |
-      | 1. Tambah Tugas |
-      | 2. Hapus Tugas |
-      | 3. Tampilkan Daftar |
-      | 4. Keluar |
+      | Pilihan: 
+      | 1. Tambah Tugas 
+      | 2. Hapus Tugas 
+      | 3. Tampilkan Daftar 
+      | 4. Keluar 
       +--------------------------+
       |
       v
