@@ -99,13 +99,13 @@ todolist/
       +-----------+
       |   Mulai   |
       +-----------+
-      |
-      v
+            |
+            v
       +-----------------+
       |  Tampilkan Menu |
       +-----------------+
-      |
-      v
+               |
+               v
       +--------------------------+
       | Pilihan: 
       | 1. Tambah Tugas 
@@ -113,6 +113,6 @@ todolist/
       | 3. Tampilkan Daftar 
       | 4. Keluar 
       +--------------------------+
-      |
-      v
+                  |
+                  v
       (Alur berdasarkan pilihan)
