@@ -93,3 +93,8 @@ todolist/
 - storage.py # Fungsi simpan dan muat file JSON
 - utils.py # Fungsi bantu tampilan menu dan input
 
+#### Screenshot Hasil Running Sistem
+
+
+#### Diagram Alur Sistem
+
