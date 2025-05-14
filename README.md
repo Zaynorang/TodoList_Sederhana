@@ -85,5 +85,11 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
 - Tidak memiliki antarmuka grafis (GUI)
 - Hanya menyimpan data secara lokal tanpa enkripsi
 
+### Lampiran
+todolist/
+├── main.py # Menjalankan program utama
+├── task_manager.py # Fungsi tambah, hapus, dan tampilkan tugas
+├── storage.py # Fungsi simpan dan muat file JSON
+└── utils.py # Fungsi bantu tampilan menu dan input
 
----
+
