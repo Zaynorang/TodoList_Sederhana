@@ -146,9 +146,9 @@ Pengguna adalah individu yang ingin mencatat atau mengatur daftar tugas harian. 
                                                           | 4. Keluar                |
                                                           +--------------------------+
                                                                        |
-                                                                       v
                                                           (Alur berdasarkan pilihan)
                                                                        |
+                                                                       v
                            ----------------------------------------------------------------------------------------
                            |                                           |                                          |
                            |                                           |                                          |
